@@ -29,4 +29,4 @@ A PowerShell script to back up files from a Samsung S23 (or similar Android devi
 **1. Clone or download the script**
 
 ```powershell
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/714625449/mobile_backup.git
